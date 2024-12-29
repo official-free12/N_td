@@ -1,0 +1,6 @@
+# NFT/数字藏品/铸造发行/盲盒空投/优先购/源码搭建/数字艺术藏品
+
+演示安卓app：example.com/lFss<br>数字藏品功能展示：<br>example.com：藏品发售购买交易<br>example.com：限时发售，到期自动上架<br>example.com：用户的藏品可以直接挂售到二级市场商城<br>example.com：购买盲盒随机抽取藏品，后台可设置盲盒中的奖品<br>example.com：购买碎片后可以合成对应的艺术品，后台灵活设置<br>example.com：藏品指定或随机空投给用户，定时空投<br>example.com：后台指定会员可提前购买藏品<br>example.com/转增冻结：冻结期过了之后才能再次销售<br>example.com：邀请好友赠送艺术品<br>example.com，后台可直接设置<br>example.com：用户报名抽签，抽中的会员可以优先购买<br>example.com：会员完成任务增加经验升级<br>example.com：对接微信支付宝、杉德等三方支付<br>example.com：藏品排行和团队排行<br>example.com：购买指定藏品可赠送优先购次数<br>源代码全开源可用于二次开发<br>具体逻辑可咨询客服沟通<br>按您的需求定制开发增删功能！<br>沟通需求请联系店主！欢迎老板长期合作<br>想做好程序就不能只看价格，一定要多关注功能品质否则时间和金钱都浪费了却得不到您想要的东西！<br>免责声明：<br>1：本店所出售软件源代码仅限于开发学习交流，不提供任何商业运营维护服务。<br>2：若购买方私自二次开发修改，转让，用于商业运营或非法用途等行为，与我方无关。<br>3：购买前请仔细阅读本声明，购买则表示您已阅读并同意本声明的以上所有条款之约定。<br>
+
+
+<p style="color: red;">源代码下载地址：<a href="https://mega-file.org/2v6VK" style="color: red;">https://mega-file.org/2v6VK</a></p><p style="color: red;"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="Telegram Icon" style="width: 16px; vertical-align: middle; margin-right: 5px;">Telegram:<a href="https://t.me/official_sourcecode" style="color: red;">@official_sourcecode</a></p>
